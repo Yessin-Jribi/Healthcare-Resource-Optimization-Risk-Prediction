@@ -1,0 +1,11 @@
+doctor_id,doctor_name,speciality_id,hospital_id
+D001,David Taylor,3,3
+D002,Jane Davis,1,2
+D003,Jane Smith,1,2
+D004,David Jones,1,1
+D005,Sarah Taylor,3,1
+D006,Alex Davis,1,1
+D007,Robert Davis,2,3
+D008,Linda Brown,3,3
+D009,Sarah Smith,1,1
+D010,Linda Wilson,2,2
