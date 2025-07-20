@@ -4,7 +4,7 @@ This project leverages a simulated hospital management system dataset to build a
 ## Project Overview
 Hospitals often face challenges in managing resources efficiently while providing high-quality care. This project focuses on two major goals:
 
-1. **Optimizing Healthcare Resources** using Operations Research methods (e.g., Dynamic Programming, Linear Programming).
+1. Creating dimensions and facts during ETL process in order to be used further for visualizations.
 2. **Predicting High-Risk Patients** using machine learning algorithms for early intervention and better planning. (High risk patients are those who their paiement fails or don't show
 up for their appointements)
 
@@ -57,28 +57,12 @@ We will train and compare the following models for risk prediction:
 - ANN
 - K-Nearest Neighbors (KNN)
 
-## Operations Research Scope
-We will formulate and solve a resource optimization problem such as:
-- **Doctor-patient allocation**
-- **Treatment scheduling** with constraints (doctor capacity, specialty, time windows)
-
-Using techniques like:
-- **Linear Programming (LP)**
-- **Integer Programming**
-- **Dynamic Programming** (for sequential decisions over time)
-
 ## Expected Deliverables
 - Clean and structured MySQL database with relationships
 - Looker dashboard with hospital KPIs
 - ML models deployed in Colab for patient risk classification
 - Optimization model to reduce wait times or costs
 - GitHub-hosted source code with documentation
-
-## Why This Matters
-This project simulates real-world hospital challenges using modern data tools, blending **analytics**, **machine learning**, and **operations research**. It serves as an excellent portfolio piece to showcase:
-- Full-stack data pipeline implementation
-- Applied ML in healthcare
-- Practical decision support systems using OR
 
 ## Contact
 Project by **Yessin Jribi**  
